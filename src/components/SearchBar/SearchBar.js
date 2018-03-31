@@ -1,6 +1,5 @@
 import React from 'react';
 import './SearchBar.css';
-import Yelp from '../../util/Yelp.js';
 
 class SearchBar extends React.Component {
   constructor(props) {
